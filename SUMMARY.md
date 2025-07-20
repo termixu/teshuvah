@@ -183,6 +183,7 @@
 
 ## Архив
 
+* [📱 Прошивка Android (free-Google)](arkhiv/proshivka-android-free-google.md)
 * [🔍 Система анализа цифровых следов](arkhiv/sistema-analiza-cifrovykh-sledov.md)
 * [📔 Руководство удаления цифровых следов](arkhiv/rukovodstvo-udaleniya-cifrovykh-sledov.md)
 * [ℹ️ Перечень персональных данных](arkhiv/perechen-personalnykh-dannykh.md)
