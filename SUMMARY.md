@@ -175,6 +175,12 @@
 * [🤖 GPT4ALL](cifrovye-tekhnologii/gpt4all/README.md)
   * [Сравнение офлайн-моделей](cifrovye-tekhnologii/gpt4all/sravnenie-oflain-modelei.md)
 
+***
+
+* [🚥 Little Snitch Mini](little-snitch-mini/README.md)
+  * [Настройка](little-snitch-mini/nastroika.md)
+* [⚙️ Полезный софт](poleznyi-soft.md)
+
 ## Духовное освобождение
 
 * [🎓 Молитвы цифрового отречения](dukhovnoe-osvobozhdenie/molitvy-cifrovogo-otrecheniya.md)
