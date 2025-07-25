@@ -6,26 +6,20 @@
 ## Введение
 
 * [🎓 Пробуждение](vvedenie/probuzhdenie.md)
-
-***
-
-* [🎓 Цифровая одержимость](cifrovaya-oderzhimost.md)
-* [🎓 Цифровая автономия](cifrovaya-avtonomiya.md)
-* [🎓 Цифровое рабство](cifrovoe-rabstvo.md)
-* [🎓 Опасность цифровизации](opasnost-cifrovizacii.md)
-* [🎓 Система зверя](sistema-zverya.md)
-* [🎓 Радикальное решение](radikalnoe-reshenie.md)
+* [🎓 Цифровая одержимость](vvedenie/cifrovaya-oderzhimost.md)
+* [🎓 Цифровая автономия](vvedenie/cifrovaya-avtonomiya.md)
+* [🎓 Цифровое рабство](vvedenie/cifrovoe-rabstvo.md)
+* [🎓 Опасность цифровизации](vvedenie/opasnost-cifrovizacii.md)
+* [🎓 Система зверя](vvedenie/sistema-zverya.md)
+* [🎓 Радикальное решение](vvedenie/radikalnoe-reshenie.md)
 
 ## Подготовка
 
 * [📖 Сбор базы](podgotovka/sbor-bazy.md)
-
-***
-
-* [📖 Создание временной почты](sozdanie-vremennoi-pochty.md)
-* [📖 Журнал чистки](zhurnal-chistki.md)
-* [📖 Данные цифрового следа](dannye-cifrovogo-sleda.md)
-* [📖 Цифровая замена](cifrovaya-zamena.md)
+* [📖 Создание временной почты](podgotovka/sozdanie-vremennoi-pochty.md)
+* [📖 Журнал чистки](podgotovka/zhurnal-chistki.md)
+* [📖 Данные цифрового следа](podgotovka/dannye-cifrovogo-sleda.md)
+* [📖 Цифровая замена](podgotovka/cifrovaya-zamena.md)
 
 ## Цифровая чистка
 
@@ -41,132 +35,117 @@
   * [Pinterest](cifrovaya-chistka/udalenie-soc.-setei/pinterest.md)
   * [Reddit](cifrovaya-chistka/udalenie-soc.-setei/reddit.md)
   * [Twitch](cifrovaya-chistka/udalenie-soc.-setei/twitch.md)
-
-***
-
-* [📱 Удаление сервисов](udalenie-servisov/README.md)
-  * [Google](udalenie-servisov/google.md)
-  * [Apple ID](udalenie-servisov/apple-id.md)
-  * [iCloud](udalenie-servisov/icloud.md)
-  * [Microsoft](udalenie-servisov/microsoft.md)
-  * [Yandex](udalenie-servisov/yandex.md)
-  * [Avito](udalenie-servisov/avito.md)
-* [☁️ Удаление облаков](udalenie-oblakov/README.md)
-  * [iCloud](udalenie-oblakov/icloud.md)
-  * [Google Drive](udalenie-oblakov/google-drive.md)
-  * [Dropbox](udalenie-oblakov/dropbox.md)
-  * [OneDrive](udalenie-oblakov/onedrive.md)
-  * [Yandex Disk](udalenie-oblakov/yandex-disk.md)
-* [💳 Удаление банков](udalenie-bankov/README.md)
-  * [T-банк](udalenie-bankov/t-bank.md)
-  * [Ozon банк](udalenie-bankov/ozon-bank.md)
-  * [Сбербанк](udalenie-bankov/sberbank.md)
-  * [ЮMoney](udalenie-bankov/yumoney.md)
-  * [PayPal](udalenie-bankov/paypal.md)
-  * [Alipay](udalenie-bankov/alipay.md)
-  * [QIWI](udalenie-bankov/qiwi.md)
-* [📱 Удаление аккаунтов (ID)](udalenie-akkauntov-id/README.md)
-  * [Госуслуги](udalenie-akkauntov-id/gosuslugi.md)
-  * [Apple ID (iCloud)](udalenie-akkauntov-id/apple-id-icloud.md)
-  * [Gmail](udalenie-akkauntov-id/gmail.md)
-  * [Airbnb](udalenie-akkauntov-id/airbnb.md)
-  * [Steam](udalenie-akkauntov-id/steam.md)
-  * [Wildberries](udalenie-akkauntov-id/wildberries.md)
-  * [Ozon](udalenie-akkauntov-id/ozon.md)
-  * [Booking](udalenie-akkauntov-id/booking.md)
-  * [BlaBlaCar](udalenie-akkauntov-id/blablacar.md)
-  * [Figma](udalenie-akkauntov-id/figma.md)
-* [📵 Удаление SIM](udalenie-sim/README.md)
-  * [SIM](udalenie-sim/sim.md)
-  * [eSIM](udalenie-sim/esim.md)
-* [✉️ Удаление почты](udalenie-pochty/README.md)
-  * [Gmail](udalenie-pochty/gmail.md)
-  * [Yandex](udalenie-pochty/yandex.md)
-  * [Outlook](udalenie-pochty/outlook.md)
-* [📄 Удаление документов](udalenie-dokumentov/README.md)
-  * [ИНН](udalenie-dokumentov/inn.md)
-  * [СНИЛС](udalenie-dokumentov/snils.md)
-  * [Полис ОМС](udalenie-dokumentov/polis-oms.md)
-  * [Аттестат](udalenie-dokumentov/attestat.md)
-  * [Диплом](udalenie-dokumentov/diplom.md)
-  * [Договора](udalenie-dokumentov/dogovora.md)
-  * [Социальные карты](udalenie-dokumentov/socialnye-karty.md)
-  * [Регистрации](udalenie-dokumentov/registracii.md)
-  * [Трудовая книжка](udalenie-dokumentov/trudovaya-knizhka.md)
-  * [Военный билет](udalenie-dokumentov/voennyi-bilet.md)
-  * [Паспорт](udalenie-dokumentov/pasport.md)
-* [🖼️ Удаление фотографий](udalenie-fotografii/README.md)
-  * [iCloud](udalenie-fotografii/icloud.md)
-  * [Google Photos](udalenie-fotografii/google-photos.md)
-  * [Галерея телефона](udalenie-fotografii/galereya-telefona.md)
-  * [Социальные сети](udalenie-fotografii/socialnye-seti.md)
-  * [Облачные сервисы](udalenie-fotografii/oblachnye-servisy.md)
-* [💾 Удаление цифровой памяти](udalenie-cifrovoi-pamyati/README.md)
-  * [Поисковые системы](udalenie-cifrovoi-pamyati/poiskovye-sistemy.md)
-  * [Социальные сети](udalenie-cifrovoi-pamyati/socialnye-seti.md)
-  * [Кэш браузера](udalenie-cifrovoi-pamyati/kesh-brauzera.md)
-  * [Облачные архивы](udalenie-cifrovoi-pamyati/oblachnye-arkhivy.md)
-  * [Форумы](udalenie-cifrovoi-pamyati/forumy.md)
-  * [Чаты](udalenie-cifrovoi-pamyati/chaty.md)
-  * [Мессенджеры](udalenie-cifrovoi-pamyati/messendzhery.md)
-  * [Сервисы аналитики](udalenie-cifrovoi-pamyati/servisy-analitiki.md)
-* [🗓️ Удаление подписок](udalenie-podpisok/README.md)
-  * [App Store](udalenie-podpisok/app-store.md)
-  * [Google Play](udalenie-podpisok/google-play.md)
-  * [Netflix](udalenie-podpisok/netflix.md)
-* [♻️ Удаление бэкапов](udalenie-bekapov/README.md)
-  * [Телефон](udalenie-bekapov/telefon.md)
-  * [Компьютер](udalenie-bekapov/kompyuter.md)
-  * [Мессенджеры](udalenie-bekapov/messendzhery.md)
-  * [Облачные сервисы](udalenie-bekapov/oblachnye-servisy.md)
-  * [Браузеры](udalenie-bekapov/brauzery.md)
-  * [Системные настройки](udalenie-bekapov/sistemnye-nastroiki.md)
-* [🔍 Удаление из поисковых систем](udalenie-iz-poiskovykh-sistem/README.md)
-  * [Yandex](udalenie-iz-poiskovykh-sistem/yandex.md)
-  * [Google](udalenie-iz-poiskovykh-sistem/google.md)
-* [📂 Удаление из веб-архива](udalenie-iz-veb-arkhiva.md)
+* [📱 Удаление сервисов](cifrovaya-chistka/udalenie-servisov/README.md)
+  * [Google](cifrovaya-chistka/udalenie-servisov/google.md)
+  * [Apple ID](cifrovaya-chistka/udalenie-servisov/apple-id.md)
+  * [iCloud](cifrovaya-chistka/udalenie-servisov/icloud.md)
+  * [Microsoft](cifrovaya-chistka/udalenie-servisov/microsoft.md)
+  * [Yandex](cifrovaya-chistka/udalenie-servisov/yandex.md)
+  * [Avito](cifrovaya-chistka/udalenie-servisov/avito.md)
+* [☁️ Удаление облаков](cifrovaya-chistka/udalenie-oblakov/README.md)
+  * [iCloud](cifrovaya-chistka/udalenie-oblakov/icloud.md)
+  * [Google Drive](cifrovaya-chistka/udalenie-oblakov/google-drive.md)
+  * [Dropbox](cifrovaya-chistka/udalenie-oblakov/dropbox.md)
+  * [OneDrive](cifrovaya-chistka/udalenie-oblakov/onedrive.md)
+  * [Yandex Disk](cifrovaya-chistka/udalenie-oblakov/yandex-disk.md)
+* [💳 Удаление банков](cifrovaya-chistka/udalenie-bankov/README.md)
+  * [T-банк](cifrovaya-chistka/udalenie-bankov/t-bank.md)
+  * [Ozon банк](cifrovaya-chistka/udalenie-bankov/ozon-bank.md)
+  * [Сбербанк](cifrovaya-chistka/udalenie-bankov/sberbank.md)
+  * [ЮMoney](cifrovaya-chistka/udalenie-bankov/yumoney.md)
+  * [PayPal](cifrovaya-chistka/udalenie-bankov/paypal.md)
+  * [Alipay](cifrovaya-chistka/udalenie-bankov/alipay.md)
+  * [QIWI](cifrovaya-chistka/udalenie-bankov/qiwi.md)
+* [📱 Удаление аккаунтов (ID)](cifrovaya-chistka/udalenie-akkauntov-id/README.md)
+  * [Госуслуги](cifrovaya-chistka/udalenie-akkauntov-id/gosuslugi.md)
+  * [Apple ID (iCloud)](cifrovaya-chistka/udalenie-akkauntov-id/apple-id-icloud.md)
+  * [Gmail](cifrovaya-chistka/udalenie-akkauntov-id/gmail.md)
+  * [Airbnb](cifrovaya-chistka/udalenie-akkauntov-id/airbnb.md)
+  * [Steam](cifrovaya-chistka/udalenie-akkauntov-id/steam.md)
+  * [Wildberries](cifrovaya-chistka/udalenie-akkauntov-id/wildberries.md)
+  * [Ozon](cifrovaya-chistka/udalenie-akkauntov-id/ozon.md)
+  * [Booking](cifrovaya-chistka/udalenie-akkauntov-id/booking.md)
+  * [BlaBlaCar](cifrovaya-chistka/udalenie-akkauntov-id/blablacar.md)
+  * [Figma](cifrovaya-chistka/udalenie-akkauntov-id/figma.md)
+* [📵 Удаление SIM](cifrovaya-chistka/udalenie-sim/README.md)
+  * [SIM](cifrovaya-chistka/udalenie-sim/sim.md)
+  * [eSIM](cifrovaya-chistka/udalenie-sim/esim.md)
+* [✉️ Удаление почты](cifrovaya-chistka/udalenie-pochty/README.md)
+  * [Gmail](cifrovaya-chistka/udalenie-pochty/gmail.md)
+  * [Yandex](cifrovaya-chistka/udalenie-pochty/yandex.md)
+  * [Outlook](cifrovaya-chistka/udalenie-pochty/outlook.md)
+* [📄 Удаление документов](cifrovaya-chistka/udalenie-dokumentov/README.md)
+  * [ИНН](cifrovaya-chistka/udalenie-dokumentov/inn.md)
+  * [СНИЛС](cifrovaya-chistka/udalenie-dokumentov/snils.md)
+  * [Полис ОМС](cifrovaya-chistka/udalenie-dokumentov/polis-oms.md)
+  * [Аттестат](cifrovaya-chistka/udalenie-dokumentov/attestat.md)
+  * [Диплом](cifrovaya-chistka/udalenie-dokumentov/diplom.md)
+  * [Договора](cifrovaya-chistka/udalenie-dokumentov/dogovora.md)
+  * [Социальные карты](cifrovaya-chistka/udalenie-dokumentov/socialnye-karty.md)
+  * [Регистрации](cifrovaya-chistka/udalenie-dokumentov/registracii.md)
+  * [Трудовая книжка](cifrovaya-chistka/udalenie-dokumentov/trudovaya-knizhka.md)
+  * [Военный билет](cifrovaya-chistka/udalenie-dokumentov/voennyi-bilet.md)
+  * [Паспорт](cifrovaya-chistka/udalenie-dokumentov/pasport.md)
+* [🖼️ Удаление фотографий](cifrovaya-chistka/udalenie-fotografii/README.md)
+  * [iCloud](cifrovaya-chistka/udalenie-fotografii/icloud.md)
+  * [Google Photos](cifrovaya-chistka/udalenie-fotografii/google-photos.md)
+  * [Галерея телефона](cifrovaya-chistka/udalenie-fotografii/galereya-telefona.md)
+  * [Социальные сети](cifrovaya-chistka/udalenie-fotografii/socialnye-seti.md)
+  * [Облачные сервисы](cifrovaya-chistka/udalenie-fotografii/oblachnye-servisy.md)
+* [💾 Удаление цифровой памяти](cifrovaya-chistka/udalenie-cifrovoi-pamyati/README.md)
+  * [Поисковые системы](cifrovaya-chistka/udalenie-cifrovoi-pamyati/poiskovye-sistemy.md)
+  * [Социальные сети](cifrovaya-chistka/udalenie-cifrovoi-pamyati/socialnye-seti.md)
+  * [Кэш браузера](cifrovaya-chistka/udalenie-cifrovoi-pamyati/kesh-brauzera.md)
+  * [Облачные архивы](cifrovaya-chistka/udalenie-cifrovoi-pamyati/oblachnye-arkhivy.md)
+  * [Форумы](cifrovaya-chistka/udalenie-cifrovoi-pamyati/forumy.md)
+  * [Чаты](cifrovaya-chistka/udalenie-cifrovoi-pamyati/chaty.md)
+  * [Мессенджеры](cifrovaya-chistka/udalenie-cifrovoi-pamyati/messendzhery.md)
+  * [Сервисы аналитики](cifrovaya-chistka/udalenie-cifrovoi-pamyati/servisy-analitiki.md)
+* [🗓️ Удаление подписок](cifrovaya-chistka/udalenie-podpisok/README.md)
+  * [App Store](cifrovaya-chistka/udalenie-podpisok/app-store.md)
+  * [Google Play](cifrovaya-chistka/udalenie-podpisok/google-play.md)
+  * [Netflix](cifrovaya-chistka/udalenie-podpisok/netflix.md)
+* [♻️ Удаление бэкапов](cifrovaya-chistka/udalenie-bekapov/README.md)
+  * [Телефон](cifrovaya-chistka/udalenie-bekapov/telefon.md)
+  * [Компьютер](cifrovaya-chistka/udalenie-bekapov/kompyuter.md)
+  * [Мессенджеры](cifrovaya-chistka/udalenie-bekapov/messendzhery.md)
+  * [Облачные сервисы](cifrovaya-chistka/udalenie-bekapov/oblachnye-servisy.md)
+  * [Браузеры](cifrovaya-chistka/udalenie-bekapov/brauzery.md)
+  * [Системные настройки](cifrovaya-chistka/udalenie-bekapov/sistemnye-nastroiki.md)
+* [🔍 Удаление из поисковых систем](cifrovaya-chistka/udalenie-iz-poiskovykh-sistem/README.md)
+  * [Yandex](cifrovaya-chistka/udalenie-iz-poiskovykh-sistem/yandex.md)
+  * [Google](cifrovaya-chistka/udalenie-iz-poiskovykh-sistem/google.md)
+* [📂 Удаление из веб-архива](cifrovaya-chistka/udalenie-iz-veb-arkhiva.md)
 
 ## Анонимное общение
 
 * [✉️ Анонимные почты](anonimnoe-obshenie/anonimnye-pochty.md)
-
-***
-
-* [💬 Анонимные мессенджеры](anonimnye-messendzhery.md)
-* [🎭 Цифровая анонимность](cifrovaya-anonimnost.md)
-* [🌐 Персональный сайт](personalnyi-sait.md)
+* [💬 Анонимные мессенджеры](anonimnoe-obshenie/anonimnye-messendzhery.md)
+* [🎭 Цифровая анонимность](anonimnoe-obshenie/cifrovaya-anonimnost.md)
+* [🌐 Персональный сайт](anonimnoe-obshenie/personalnyi-sait.md)
 
 ## Цифровая безопасность
 
 * [🔑 Менеджеры паролей](cifrovaya-bezopasnost/menedzhery-parolei.md)
-
-***
-
-* [🔐 VPN, Tor и I2P](vpn-tor-i-i2p.md)
-* [👀 Методы отслеживания](metody-otslezhivaniya.md)
-* [💬 Безопасная переписка (PGP)](bezopasnaya-perepiska-pgp.md)
-* [🗄️ Шифрование файлов](shifrovanie-failov.md)
+* [🔐 VPN, Tor и I2P](cifrovaya-bezopasnost/vpn-tor-i-i2p.md)
+* [👀 Методы отслеживания](cifrovaya-bezopasnost/metody-otslezhivaniya.md)
+* [💬 Безопасная переписка (PGP)](cifrovaya-bezopasnost/bezopasnaya-perepiska-pgp.md)
+* [🗄️ Шифрование файлов](cifrovaya-bezopasnost/shifrovanie-failov.md)
 
 ## Безопасные устройства
 
 * [📱 Телефоны без Google и Apple](bezopasnye-ustroistva/telefony-bez-google-i-apple.md)
 * [⚙️ Приватная настройка телефона](bezopasnye-ustroistva/privatnaya-nastroika-telefona.md)
-
-***
-
-* [💻 Ноутбук паломника](noutbuk-palomnika/README.md)
-  * [Мини-ноутбуки](noutbuk-palomnika/mini-noutbuki.md)
-* [📳 Модули: SIM, GPS, Wi-Fi](moduli-sim-gps-wi-fi.md)
-* [📁 Мини-серверы](mini-servery.md)
+* [💻 Ноутбук паломника](bezopasnye-ustroistva/noutbuk-palomnika/README.md)
+  * [Мини-ноутбуки](bezopasnye-ustroistva/noutbuk-palomnika/mini-noutbuki.md)
+* [📳 Модули: SIM, GPS, Wi-Fi](bezopasnye-ustroistva/moduli-sim-gps-wi-fi.md)
+* [📁 Мини-серверы](bezopasnye-ustroistva/mini-servery.md)
 
 ## Альтернативные финансы
 
 * [💳 Виртуальные одноразовые карты](alternativnye-finansy/virtualnye-odnorazovye-karty.md)
-
-***
-
-* [🪙 Криптовалюта](kriptovalyuta.md)
-* [💵 Отказ от валюты](otkaz-ot-valyuty.md)
+* [🪙 Криптовалюта](alternativnye-finansy/kriptovalyuta.md)
+* [💵 Отказ от валюты](alternativnye-finansy/otkaz-ot-valyuty.md)
 
 ## Цифровые технологии
 
@@ -174,12 +153,9 @@
 * [💻 Linux (OS Elementary)](cifrovye-tekhnologii/linux-os-elementary.md)
 * [🤖 GPT4ALL](cifrovye-tekhnologii/gpt4all/README.md)
   * [Сравнение офлайн-моделей](cifrovye-tekhnologii/gpt4all/sravnenie-oflain-modelei.md)
-
-***
-
-* [🚥 Little Snitch Mini](little-snitch-mini/README.md)
-  * [Настройка](little-snitch-mini/nastroika.md)
-* [⚙️ Полезный софт](poleznyi-soft.md)
+* [🚥 Little Snitch Mini](cifrovye-tekhnologii/little-snitch-mini/README.md)
+  * [Настройка](cifrovye-tekhnologii/little-snitch-mini/nastroika.md)
+* [⚙️ Полезный софт](cifrovye-tekhnologii/poleznyi-soft.md)
 
 ## Духовное освобождение
 
@@ -189,6 +165,7 @@
 
 ## Архив
 
+* [🧹 Чистка кэша](arkhiv/chistka-kesha.md)
 * [📱 Прошивка Android (free-Google)](arkhiv/proshivka-android-free-google.md)
 * [🔍 Система анализа цифровых следов](arkhiv/sistema-analiza-cifrovykh-sledov.md)
 * [📔 Руководство удаления цифровых следов](arkhiv/rukovodstvo-udaleniya-cifrovykh-sledov.md)
