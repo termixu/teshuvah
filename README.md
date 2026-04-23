@@ -1,105 +1,126 @@
-Teshuvah — это практическое руководство по выходу из цифрового Египта. Не теория, не проповедь, а пошаговые инструкции для тех, кто чувствует, что телефон управляет жизнью. Кто устал от уведомлений, новостей, тревоги. Кто хочет выйти, но не знает как.
+# 📖 Teshuvah
 
-Этот проект — не отказ от технологий, а контроль над ними. Не бегство в лес, а возвращение к себе. Не изоляция, а свобода.
+**A practical guide to leaving digital Egypt. Not theory. Not a sermon. Step-by-step instructions for those who feel their phone runs their life. Who are tired of notifications, news, anxiety. Who want to leave but don't know how.**
 
-Для кого
+This project is not about rejecting technology — it's about controlling it. Not escaping to the woods — but returning to yourself. Not isolation — but freedom.
 
-Для тех, кто:
+---
 
-· Проводит в телефоне больше времени, чем в реальности
-· Чувствует тревогу, когда разряжается батарея
-· Просыпается и засыпает с экраном
-· Хочет жить настоящей жизнью, но не знает, как отключиться
-· Ищет выход из системы, которая следит, продаёт, контролирует
+## 🎯 Who This Is For
 
-Как это работает
+For those who:
 
-Проект разделён на пять этапов. Каждый этап — это шаг к свободе.
+- Spend more time on their phone than in real life
+- Feel anxious when their battery runs low
+- Wake up and fall asleep with a screen
+- Want to live a real life but don't know how to disconnect
+- Are looking for a way out of a system that watches, sells, controls
 
-Этап 1. Осознание
+---
 
-· Дневник экранного времени
-· Цифровая инвентаризация (все аккаунты, подписки, данные)
-· Отключение уведомлений
+## ⚙️ How It Works
 
-Этап 2. Очистка
+The project is divided into five stages. Each stage is a step toward freedom.
 
-· Удаление соцсетей (с сохранением данных)
-· Замена облачных хранилищ на локальные
-· Отказ от банковских карт (переход на наличные)
-· Смена телефона и оператора
+### Stage 1 — Awareness
 
-Этап 3. Переход
+- Screen time diary
+- Digital inventory (all accounts, subscriptions, data)
+- Turn off notifications
 
-· Оффлайн-работа (ремесло, вахты, земля)
-· Оффлайн-общение (без мессенджеров)
-· Оффлайн-информация (книги, радио, разговоры)
-· Оффлайн-навигация (бумажные карты, компас)
+### Stage 2 — Cleansing
 
-Этап 4. Укоренение
+- Delete social media (with data export)
+- Replace cloud storage with local storage
+- Move away from bank cards (switch to cash)
+- Change phone and carrier
 
-· Жизнь без экрана
-· Природа как дом (палатка, костёр, вода, еда)
-· Ремесло (гончарка, пчеловодство, плотницкое дело)
-· Община (поиск единомышленников без соцсетей)
+### Stage 3 — Transition
 
-Этап 5. Свобода
+- Offline work (crafts, remote shifts, farming)
+- Offline communication (without messengers)
+- Offline information (books, radio, conversations)
+- Offline navigation (paper maps, compass)
 
-· Цифровой минимум (что можно оставить)
-· Финансовая автономия (без кредитов и долгов)
-· Энергетическая автономия (солнце, дрова, ветер)
-· Пищевая автономия (свой огород, сад)
+### Stage 4 — Rooting
 
-Что внутри
+- Life without a screen
+- Nature as home (tent, fire, water, food)
+- Craftsmanship (pottery, beekeeping, woodworking)
+- Community (find like-minded people without social media)
 
-Каждый этап содержит:
+### Stage 5 — Freedom
 
-· Пошаговые инструкции
-· Чек-листы для самопроверки
-· Списки альтернативных инструментов
-· Истории тех, кто уже прошёл этот путь
-· Ссылки на полезные ресурс
+- Digital minimum (what you can keep)
+- Financial autonomy (no credit, no debt)
+- Energy autonomy (sun, firewood, wind)
+- Food autonomy (your own garden, orchard)
 
-Концепция
+---
 
-Этот проект основан на трёх принципах:
+## 📦 What's Inside
 
-1. Не убегать, а возвращаться
-Мы не против технологий. Мы за контроль над ними. Технологии — инструмент, а не хозяин.
+Each stage includes:
 
-2. Не изолироваться, а соединяться
-Мы уходим из цифровой сети, чтобы войти в сеть настоящих отношений. С людьми, с природой, с Творцом.
+- Step-by-step instructions
+- Checklists for self-assessment
+- Lists of alternative tools
+- Stories from those who have already walked this path
+- Links to useful resources
 
-3. Не терять, а обретать
-Когда мы убираем лишнее, мы находим главное. Время, внимание, покой. Себя.
+---
 
-Как использовать
+## 🌱 Core Principles
 
-1. Пройди цифровую инвентаризацию. Узнай, сколько дверей открыто в твою жизнь.
-2. Выбери этап, с которого хочешь начать. Можно с первого, можно с любого.
-3. Следуй инструкциям. Делай в своём темпе.
-4. Отмечай прогресс в чек-листах.
-5. Делись опытом в Issues (если хочешь).
+This project is built on three principles:
 
-Проект распространяется под лицензией Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+**1. Not escaping — returning**  
+We are not against technology. We are for control over it. Technology is a tool, not a master.
 
-Ты можешь:
+**2. Not isolating — connecting**  
+We leave the digital network to enter a network of real relationships — with people, with nature, with the Creator.
 
-· Копировать, распространять, изменять
-· Использовать для любых целей
+**3. Not losing — gaining**  
+When we remove the excess, we find what matters most. Time. Attention. Peace. Ourselves.
 
-С условием:
+---
 
-· Указывать автора
-· Распространять на тех же условиях
+## 🧭 How to Use
 
-Если у тебя есть идеи, инструкции, истории — пиши. Создавай Issue, Pull Request, или просто свяжись со мной.
+1. Complete the digital inventory. See how many doors are open into your life.
+2. Choose the stage you want to start with. You can begin with Stage 1 or any other.
+3. Follow the instructions. Go at your own pace.
+4. Track your progress using the checklists.
+5. Share your experience in Issues (if you wish).
 
-Этот проект живёт, пока его дополняют люди, которые прошли путь.
+---
 
-Готов выйти?
+## 📄 License
 
-Открой Часть 1. Осознание и начни с дневника экранного времени. Увидь, сколько дней уходит в экран. И сделай первый шаг к себе.
+This project is distributed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**.
 
-יְהֹוָה רֹעִי לֹא אֶחְסָר
-Яхве — пастырь мой, не буду я нуждаться
+**You are free to:**
+- Copy, distribute, and modify
+- Use for any purpose
+
+**Under these terms:**
+- Give appropriate credit
+- Distribute under the same license
+
+---
+
+## 💬 Contribute
+
+If you have ideas, instructions, or stories — write. Open an Issue, submit a Pull Request, or just reach out to me.
+
+This project lives as long as people who have walked the path keep adding to it.
+
+---
+
+## ✡️ Ready to leave?
+
+Open **Part 1. Awareness** and start with the screen time diary. See how many days disappear into the screen. Then take your first step toward yourself.
+
+> *יְהֹוָה רֹעִי לֹא אֶחְסָר*  
+> *Adonai ro'i, lo echsar*  
+> *The Lord is my shepherd; I shall not want.*
